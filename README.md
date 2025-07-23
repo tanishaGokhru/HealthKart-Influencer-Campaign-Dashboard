@@ -1,1 +1,3 @@
 # HealthKart-Influencer-Campaign-Dashboard
+
+This is a HealthKart Influencer Campaign Overview Dashboard that visualizes and tracks the performance of influencer marketing campaigns across platforms like Instagram, YouTube, and Twitter. The project uses Python to generate a simulated dataset of 1000 rows and Power BI to build an interactive dashboard. The simulated data includes four key files: influencers.csv (influencer metadata), posts.csv (post-level data), tracking_data.csv (user-level campaign performance), and payouts.csv (influencer compensation). Key metrics tracked include ROAS (Return on Ad Spend), Incremental ROAS, Total Payout per Influencer, Engagement Metrics (likes, comments, reach), and overall Revenue & Order Tracking. 
